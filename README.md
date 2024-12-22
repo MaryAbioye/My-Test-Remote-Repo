@@ -27,3 +27,40 @@ The goal of the project is to create a Python program that randomly selects a wo
 To run this project on your local machine, follow these steps:
  Clone the repository:
 
+ # Project Title: Word Guessing Game
+
+## Table of Contents
+1. [Project Description](#project-description)
+2. [Installation Instructions](#installation-instructions)
+3. [Usage Instructions](#usage-instructions)
+4. [File Structure](#file-structure)
+5. [License Information](#license-information)
+
+---
+
+## Project Description
+
+This is a simple Python-based Word Guessing Game. The game randomly selects a word from a predefined list, and the player needs to guess letters of the word. The game continues until the player guesses a letter correctly.
+
+### Aim of the Project:
+- To create an interactive game where users can guess letters.
+- To practice Python concepts such as loops, conditionals, functions, and handling user input.
+- To improve code structure by refactoring and using functions for better readability and reusability.
+
+### What I Learned:
+- Implementing loops and conditionals for handling game logic.
+- Creating functions to organize the code and make it more reusable.
+- Validating user input to ensure correct data types are provided.
+
+---
+
+## Installation Instructions
+
+To run this project on your local machine:
+
+1. Ensure you have Python 3.x installed.
+2. Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/yourusername/your-repository-name.git
+
+
