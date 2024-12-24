@@ -63,4 +63,29 @@ To run this project on your local machine:
    ```bash
    git clone https://github.com/yourusername/your-repository-name.git
 
+Hangman Game
+
+## Table of Contents
+- [Project Description](#project-description)
+- [Installation Instructions](#installation-instructions)
+- [Usage Instructions](#usage-instructions)
+- [File Structure](#file-structure)
+- [License Information](#license-information)
+
+## Project Description
+The Hangman Game is a Python implementation of the classic word-guessing game. The goal is to guess the hidden word one letter at a time before running out of lives. This project is designed to:
+- Practice fundamental programming concepts such as loops, conditionals, and functions.
+- Gain experience with object-oriented programming in Python.
+- Explore good coding practices such as meaningful naming, code reuse, and proper documentation.
+
+**What I Learned:**
+- Using classes and methods to structure Python programs.
+- Implementing error handling and input validation.
+- Writing reusable and maintainable code.
+
+## Installation Instructions
+1. Clone this repository to your local machine:
+   ```bash
+   git clone https://github.com/YourUsername/YourRepository.git
+
 
